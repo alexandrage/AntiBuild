@@ -1,0 +1,3 @@
+name: AntiBuild
+main: AntiBuild.AntiBuild
+version: 1.0
